@@ -25,5 +25,5 @@ This is the stats screen which will give you a visual breakdown of your exercise
 
 # Deployed App 
 
-<a href="https://shrouded-tundra-82847.herokuapp.com/">Fitness Tracker</a>
+<a href="https://shrouded-tundra-82847.herokuapp.com/" target="_blank">Fitness Tracker</a>
   
